@@ -4615,6 +4615,15 @@ footer .list-inline li {
 	.testemobile{
 		display: block;
 	}
+	.tsst img{
+		width: 258%
+	}
+	.tsst2 img{
+		max-width: 313%;
+	}
+	.tsst3 img{
+		width: 70%;
+	}
 	.formulario2{
 		margin-left: 0;
 	}
