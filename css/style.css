@@ -137,7 +137,7 @@ ul, ol, li {
 }
 
 .boxed {
-	background: #000000 url(../images/bg/pattern.png) repeat fixed;
+	background: #000000 url(../images/bg/pattern.webp) repeat fixed;
 }
 
 .boxed .body {
@@ -403,7 +403,7 @@ ul, ol, li {
 /*  Intro */
 
 .intro1 {
-	background: url(../images/DrogaFlorenca/bannerteste6.png);
+	background: url(../images/DrogaFlorenca/bannerteste6.webp);
 	background-size: cover;
 	padding: 230px 0 200px;
 }
@@ -2999,7 +2999,7 @@ border-radius: 15px;
 }
 
 .success-ico {
-	background: url(../images/success.png);
+	background: url(../images/success.webp);
 	width: 25px;
 	height: 25px;
 	float: left;
@@ -3010,7 +3010,7 @@ border-radius: 15px;
 }
 
 .error-ico {
-	background: url(../images/error.png);
+	background: url(../images/error.webp);
 	width: 25px;
 	height: 25px;
 	float: left;
@@ -4605,7 +4605,7 @@ footer .list-inline li {
 	}
 
 	.intro1 {
-		background: url(../images/DrogaFlorenca/numsei.png);
+		background: url(../images/DrogaFlorenca/numsei.webp);
 		background-size: cover;
 		padding: 230px 0 200px;
 	}
